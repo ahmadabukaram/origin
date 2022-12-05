@@ -1,0 +1,58 @@
+
+/* nav */
+nav{z-index:9999999999;width:100%;}
+
+.navimg{width:140px ;height: 33px;}
+.navimg1{width:140px ;height: 33px;}
+
+@media only screen and (min-width: 1000px) {
+  body .navbar .navimg1 {
+    display: none;
+  }
+}
+
+
+/* sec1 */
+
+.backg1{background-image: url(../img/header-bg.jpg);
+
+    background-repeat:no-repeat;background-size:100%;
+    height:1250px;
+
+}
+/* sec4 */
+#sec4 .cirtext {width:200px ;height:200px;padding:0px ;margin:0px;}
+
+/* separation area */
+.imgarea{height: 44px; width:330px;cursor: pointer;}
+
+/* sec6 */
+.backg2{background-image: url(../img/map1-image.jpg);
+
+    background-repeat:no-repeat;background-size:100%;
+   ;width: 100vw;height: 100vh;
+
+}
+
+.photo3{ width: 250px;}
+
+.imogy{
+  height: 40px !important;
+  width: 40px !important;
+  cursor: pointer;
+
+}
+
+.sec5 .card-body .back i:hover{border-color:chartreuse;}
+
+.imogy1{
+    height: 125px !important;
+    width: 125px !important;
+   
+  
+  }
+
+footer .col a{text-decoration: none;}
+
+
+
